@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I'm hellodan. I am a beginner programmer currently I only know java but I plan on learning many more languages
+
+Next year Im beginning a five year Computer Science program at the University of Guelph :)
 
 <!--
 **Hellodan1/Hellodan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
