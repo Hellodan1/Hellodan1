@@ -1,4 +1,4 @@
-Hi, I'm hellodan. I am a beginner programmer currently I only know java but I plan on learning many more languages. I'm interested primarily in game development but I'm honestly quite unsure of what I want to do past university.
+Hi, I'm hellodan. I am a beginner programmer interesting in learning more about computer science
 
 Next year Im beginning a five year Computer Science program at the University of Guelph :)
 
