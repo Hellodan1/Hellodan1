@@ -1,6 +1,4 @@
-Hi, I'm hellodan. I am a beginner programmer interesting in learning more about computer science
-
-Next year Im beginning a five year Computer Science program at the University of Guelph :)
+Hi, I'm hellodan. I am a beginner programmer interested in learning more about computer science. I am currently in an undergraduate computer science program at the University of Guelph.
 
 <!--
 **Hellodan1/Hellodan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
